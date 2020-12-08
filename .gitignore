@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+env/
+linux-env/
+.vscode
+*.egg-info/
+
+.coverage
+.mypy_cache
